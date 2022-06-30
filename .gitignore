@@ -1,18 +1,13 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+#KODE TERMUX // KODE SCRIPT SC AUTORES
 
-# Other files and folders
-.settings/
+$ pkg update && pkg upgrade
+$ pkg install nodejs
+$ pkg install php
+$ pkg install git
+$ pkg install imagemagick
+& cd
+$ cd /sdcard
+$ ls
+$ php index.php
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+NOTE : APABILA EROR ? TNYA KAN ADMIN / PT ADMIN
